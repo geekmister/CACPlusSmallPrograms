@@ -5,4 +5,6 @@ set(CMAKE_CXX_STANDARD 98)
 
 add_executable(c-sample main.cpp
         main.cpp
+        samples/sum.cpp
+        samples/max.cpp
 )
