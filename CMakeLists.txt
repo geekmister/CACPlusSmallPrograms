@@ -7,4 +7,5 @@ add_executable(c-sample main.cpp
         main.cpp
         samples/sum.cpp
         samples/max.cpp
+        samples/samples.cpp
 )
